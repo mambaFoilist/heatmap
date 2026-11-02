@@ -1,0 +1,28 @@
+# OS / Google Drive clutter
+.DS_Store
+desktop.ini
+Thumbs.db
+*.gdoc
+*.gsheet
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# C++ build output
+build/
+cmake-build-*/
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dylib
+*.dll
+
+# CMake leftovers (if you ever build in-source)
+CMakeCache.txt
+CMakeFiles/
+compile_commands.json
